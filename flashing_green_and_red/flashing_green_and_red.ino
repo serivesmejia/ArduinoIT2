@@ -1,5 +1,5 @@
-#define LED 13
-#define BUTTON 1
+#define LED 10
+#define BUTTON 2
 
 void setup() {
   Serial.begin(9600);
